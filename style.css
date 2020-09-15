@@ -1,0 +1,27 @@
+body{
+	box-sizing: border-box;
+	margin: 20px;
+}
+h1{
+	text-align: center;
+	margin: 1em;
+}
+
+.layout{
+	width: 50%;
+	background-color: #b7bbc8;
+	padding: 2em;
+}
+.container-title{
+	text-align: center;
+	font-weight: 600;
+}
+label{
+	text-align: right;
+}
+.myform{
+	margin-top: 2em;
+}
+.radio-adjust{
+	padding-left: 1em;
+}
