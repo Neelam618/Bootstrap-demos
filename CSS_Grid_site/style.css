@@ -1,0 +1,38 @@
+body{
+	box-sizing: border-box;
+}
+.site-title{
+	padding: 7em;
+	background-image: url(coding.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top;
+	background-attachment: fixed;
+}
+.site-title p, h1{
+	color: white;
+	padding: 0.5em;
+}
+h2{
+	padding: 1.5em;
+}
+.main{
+	background-color: #adadf0;
+}
+.card-container{
+	width: 1000px;
+	margin: 0 auto;
+}
+.card-container-body{
+	width: 100%;
+	background-color: #191963;
+}
+h5{
+	padding: 1em;
+}
+.about{
+	background-color: #ccccdb;
+}
+.contact{
+	background-color: #d5ccdb;
+}
