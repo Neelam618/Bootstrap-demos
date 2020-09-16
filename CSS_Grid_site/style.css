@@ -2,7 +2,7 @@ body{
 	box-sizing: border-box;
 }
 .site-title{
-	padding: 7em;
+	padding: 7em 0;
 	background-image: url(coding.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -34,5 +34,8 @@ h5{
 	background-color: #ccccdb;
 }
 .contact{
-	background-color: #d5ccdb;
+	background-color: #daccdb;
+}
+footer{
+	background-color: black;
 }
